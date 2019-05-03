@@ -11,5 +11,8 @@ public class Main {
 
         System.out.println("Hello Test Added!");
         System.out.println("Hello Test Added!");
+        if(true){
+            System.out.println("Not true");
+        }
     }
 }
